@@ -1,6 +1,6 @@
 # CPSC-1517 - **Student Workbook** (Jan 2024)
 
-> **STUDENT_NAME**
+> **Alain Dormiendo**
 
 ## Schedule
 
